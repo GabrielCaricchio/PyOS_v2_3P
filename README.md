@@ -20,7 +20,7 @@ Certifique-se de ter o Python 3 instalado em sua máquina.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/pyos-simulador.git](https://github.com/FilipeHSAraujo/PyOs)
+    git clone [https://github.com/FilipeHSAraujo/PyOs.git](https://github.com/FilipeHSAraujo/PyOs)
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
