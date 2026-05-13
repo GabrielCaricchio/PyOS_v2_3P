@@ -18,7 +18,7 @@
 <h4 align="center">Equipe:</h4>
 
 
-<table style="white-space: nowrap; display: table; width: 100%;">
+<table style="white-space: nowrap; display: table; width: 100%;" align="center">
   <tr>
     <td align="center" valign="top" style="min-width: 130px; max-width: 130px;">
       <a href="https://github.com/Daniel-Willian-Silva">
