@@ -66,7 +66,7 @@ Certifique-se de ter o Python 3 instalado em sua máquina.
 
 1.  Clone este repositório:
     ```bash
-    git clone https://github.com/GabrielCaricchio/PyOS_v2.git
+    git clone https://github.com/GabrielCaricchio/PyOS_v2_3P.git
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
